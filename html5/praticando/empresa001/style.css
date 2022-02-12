@@ -1,8 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
 body {
     background-color: black;
     color: white;
     margin: 0px;
-    font-family: sans-serif;
+    font-family: 'PT Sans', sans-serif;
+    
 }
 
 .mainlogo {
@@ -33,13 +36,48 @@ hr {
     margin-top: 25px;
 }
 
+
 .contentbody {
     background-color: white;
     color: black;
-    margin: 50px;
+    margin-top: 50px;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
     padding: 20px;
+    max-width: 800px;
+}
+
+h1 {
+    text-align: center;
 }
 
 p {
     text-align: justify;
+}
+
+.text-left {
+
+    padding-left: 80px;
+}
+
+.text-right {
+
+    padding-right: 80px;
+}
+
+.icon {
+    width: 50px;
+    height: 50px;
+
+}
+
+.camera {
+    padding-top: 5px;
+    float: left;
+}
+
+.heart {
+    padding-top: 25px;
+    float: right;
 }
