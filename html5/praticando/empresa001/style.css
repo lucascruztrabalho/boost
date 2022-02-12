@@ -1,0 +1,26 @@
+body {
+    background-color: black;
+    color: white;
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+.mainlogo {
+    display: block;
+    margin: auto;
+}
+
+nav {
+    text-align: center;
+}
+
+nav > a {
+    margin-right: 30px;
+    color: white;
+    text-decoration: none;
+    font-weight: normal;
+}
+
+nav > a:hover {
+ font-weight: bolder;   
+}
