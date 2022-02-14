@@ -11,3 +11,7 @@
 - [ ] Terminar o primeiro projeto de site.
 - [ ] Dar início ao estudo de JavaScript.
 - [ ] Iniciar próximo projeto de site fazendo uso de JavaScript.
+
+## current-projects
+
+   * [Empresa 1 - BOOST](/practice/business001/index.html)
