@@ -2,7 +2,7 @@
 
 <p align="center"><a href="https://lucascruztrabalho.github.io/html5-css3/"><img src="media/banner.png" alt="banner"></a></p>
 <p align="center">Neste repositório estudarei HTML5 e CSS3, futuramente pretendo adicionar JavaScript em meus projetos!</p>
-<p align="center">Para acessar a versão em site do repositório basta clicar no banner.</p>
+<p align="center">Para acessar a versão em site do repositório e poder acessar os projetos visualmente basta clicar no banner.</p>
 
 ## to-do
 
