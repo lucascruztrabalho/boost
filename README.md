@@ -13,6 +13,4 @@
 - [ ]  Iniciar próximo projeto de site fazendo uso de JavaScript.
 
 ## current-projects
-<p align="center">Nesta seção você pode acessar meus projetos com HTML5 e CSS3.</p>
-
    * [BOOST](/practice/business001/)
