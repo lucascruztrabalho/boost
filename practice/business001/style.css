@@ -1,11 +1,12 @@
-@import url('https://fonts.googleapis.com/css2?family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
 
 body {
 
-    background-color: #1E2328;
+    background-color: #000000;
     color: white;
     margin: 0px;
-    font-family: 'PT Sans', sans-serif;
+    font-family: 'Nunito', sans-serif;
+    font-size: 18px;
     
 }
 
@@ -46,7 +47,6 @@ nav > a {
 nav > a:hover {
 
  font-weight: bolder;   
- border-bottom: solid 1px white;
 
 }
 
@@ -58,7 +58,6 @@ nav > a:hover {
     color: black;
     margin: auto;
     padding: 30px;
-    max-width: 800px;
 
 }
 
@@ -96,24 +95,43 @@ h1 {
 
 }
 
+.information {
+
+    max-width: 700px;
+    margin: auto;
+
+}
+
 section {
 
 padding-left: 50px;
 padding-right: 50px;
+
 
 }
 
 footer {
 
     background-color: #000000;
-    text-align: center;
-    margin: auto;
-    padding: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
     
 }
 
-footer > p {
-    max-width: 800px;
-    margin: auto;
+.left-side {
+
+
 }
 
+.right-side {
+    float: right;
+    padding-top: 17px;
+    font-weight: lighter;
+
+}
+
+.right-side > a {
+    text-decoration: none;
+    color: white;
+
+}
