@@ -7,6 +7,5 @@ https://lucascruztrabalho.github.io/boost/
 ## to-do
 
 - [ ] Finish pages content
-- [ ] JavaScript integration
 - [ ] Make the website mobile-friendly
 
